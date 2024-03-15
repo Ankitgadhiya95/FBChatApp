@@ -1,16 +1,26 @@
-# firebase1
 
-A new Flutter project.
+<p>
 
-## Getting Started
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/1.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/2.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/3.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/4.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/5.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/6.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/7.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/8.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/9.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/10.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/11.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/12.png" height="500"/>
+<img src="https://github.com/Ankitgadhiya95/FBChatApp/blob/main/output/13.png" height="500"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/Ankitgadhiya95/FBChatApp/assets/117982509/1bd0df01-42ac-4226-a33a-bdb51cd3df5d
+
+
+
+</p>
